@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
+item: Master's work
 - certificate_url:
   date_end: "2021-12-01"
   date_start: "2021-07-25"
   description: 4D printing was used to fabricate dual-information delivery, self-folding and cell-laden scaffolds for tubular tissue regeneration.
-  organization: 
+  organization:
   organization_url:
   title: 4D printing of information-embeded and shape morphing scaffolds
   url:
@@ -40,7 +40,7 @@ item:
   title: Mechanism study of luminol-horseradish peroxidase-H2O2-enhancer chemiluminescence system
   url:
 - certificate_url: 
-  date_end: "2016-8-31"
+  date_end: "2016-08-31"
   date_start: "2015-11-01"
   description: An oscillating cup viscometer based on hvidkovskiy algorithm was developed for measuring molten metals at liquid state.
   organization: 
