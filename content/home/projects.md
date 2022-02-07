@@ -31,22 +31,23 @@ item:
   organization_url:
   title: 4D printing of information-embeded and shape morphing scaffolds
   url: ""
+title: Research experience in master period at Shandong University
 - certificate_url:
   date_end: "2018-03-01"
   date_start: "2016-12-01"
-  description: Investigation of enhanced mechanism of the chemiluminescence reaction at actom level via quantum chemical method. All the calculations are performed on Gaussian 09 software.
+  description: The enhanced mechanism of the chemiluminescence reaction was investigated at actom level via quantum chemical method using the Gaussian 09 software.
   organization: 
   organization_url:
   title: Mechanism study of luminol-horseradish peroxidase-H2O2-enhancer chemiluminescence system
   url:
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- certificate_url: 
+  date_end: "2016-8-31"
+  date_start: "2015-11-01"
+  description: An oscillating cup viscometer based on hvidkovskiy algorithm was developed for measuring molten metals at liquid state.
+  organization: 
+  organization_url: 
+  title: Development of an oscillating cup viscometer for molten metals
+  url:
 
 design:
   columns: '2' 
