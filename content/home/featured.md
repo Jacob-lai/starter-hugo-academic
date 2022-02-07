@@ -11,13 +11,14 @@ weight: 70
 
 Title: Publications
 
-#design:
+design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-#  view: 3
+  view: 1
+  #columns: '2'
 ---
 
 1. **Jiahui Lai**, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, _Materials & Design_, July 1, 2021
