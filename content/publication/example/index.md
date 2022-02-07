@@ -1,5 +1,7 @@
 ---
-title: "1. Jiahui Lai, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, Materials & Design, July 1, 2021"
+title: "1. Jiahui Lai, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, Materials & Design, July 1, 2021.
+2. Jiahui Lai, Min Wang et al., 3D printing in biomedical engineering: process, materials, and applications, Applied Physics Reviews, June 16, 2021.
+"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -75,13 +77,3 @@ featured: true
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
