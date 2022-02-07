@@ -34,8 +34,7 @@ item:
 - certificate_url: https://www.edx.org
   date_end: "2018-03-01"
   date_start: "2016-12-01"
-  description: 
-              - Investigation of enhanced mechanism of the chemiluminescence reaction at actom level via quantum chemical method. All the calculations are performed on Gaussian 09 software.
+  description: - Investigation of enhanced mechanism of the chemiluminescence reaction at actom level via quantum chemical method. All the calculations are performed on Gaussian 09 software.
   organization: 
   organization_url:
   title: Mechanism study of luminol-horseradish peroxidase-H2O2-enhancer chemiluminescence system
