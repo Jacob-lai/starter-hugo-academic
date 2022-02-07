@@ -23,15 +23,15 @@ twitter: ''
 email: jhl10@connect.hku.hk
 phone: (+852)56243097
 address:
-  street: The Univeristy of Hong Kong, Pokfulam
+  street: Haking Wong Building, The University of Hong Kong, Pokfulam
   city: Hong Kong
-  region: Hong Kong
+  #region: Hong Kong
 # postcode: '94305'
   country: P.R. China
   country_code: CN
-#coordinates:
-#  latitude: '37.4275'
-#  longitude: '-122.1697'
+coordinates:
+  latitude: '22.2831'
+  longitude: '114.1366'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
@@ -124,7 +124,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'Google Maps'
+  provider: 'google'
   api_key: ''
   zoom: 15
 marketing:
