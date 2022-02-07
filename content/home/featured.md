@@ -1,7 +1,10 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: about
+
+# Activate this widget? true/false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -18,7 +21,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-  columns: '2'
+#columns: '2'
 ---
 
 1. **Jiahui Lai**, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, _Materials & Design_, July 1, 2021
