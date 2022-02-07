@@ -18,7 +18,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-  columns: '2'
+  columns: '1'
 ---
 
 1. **Jiahui Lai**, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, _Materials & Design_, July 1, 2021
