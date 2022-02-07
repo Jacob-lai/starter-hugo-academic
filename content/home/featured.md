@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-Title: 'Publications                                       '
+- Title: 'Publications                                       '
 
 design:
   # Choose a view for the listings:
