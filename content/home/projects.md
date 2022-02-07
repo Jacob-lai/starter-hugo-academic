@@ -26,19 +26,20 @@ item:
 - certificate_url:
   date_end: "2021-12-01"
   date_start: "2021-07-25"
-  description: ""
+  description: 4D printing was used to fabricate dual-information delivery, self-folding and cell-laden scaffolds for tubular tissue regeneration.
   organization: 
   organization_url:
-  title: 4D printing of information-embeded and cell-laden scaffolds
+  title: 4D printing of information-embeded and shape morphing scaffolds
   url: ""
 - certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_end: "2018-03-01"
+  date_start: "2016-12-01"
+  description: 
+              - Investigation of enhanced mechanism of the chemiluminescence reaction at actom level via quantum chemical method. All the calculations are performed on Gaussian 09 software.
+  organization: 
+  organization_url:
+  title: Mechanism study of luminol-horseradish peroxidase-H2O2-enhancer chemiluminescence system
+  url:
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
