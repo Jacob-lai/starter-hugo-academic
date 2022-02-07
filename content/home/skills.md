@@ -21,12 +21,20 @@ feature:
   icon_pack: custom
   name: C language
 - description: 50%
+  icon: C++
+  icon_pack: custom
+  name: C++ language
+- description: 70%
+  icon: MATLAB
+  icon_pack: custom
+  name: Matlab
+- description: 50%
   icon: python
   icon_pack: fab
   name: Python
 - description: 70%
-  icon: image
-  icon_pack: fas
+  icon: PS
+  icon_pack: custom
   name: Photoshop
 - description: 100%
   icon: chalkboard-teacher
