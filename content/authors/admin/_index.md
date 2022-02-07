@@ -6,7 +6,7 @@ title: Jiahui Lai
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: PhD candidate of Mechancial Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
 #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 3D/4D printing/bioprinting, biomaterials in tissue engineering and programming.
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,6 @@ email: "jhl10@connect.hku.hk"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jiahui Lai currently is a PhD candidate of Mechanical Engineering at the University of Hong Kong (HKU). He obtained his bachelor and master degree in the Biomedical Engineering, Shandong University. His research interests include 3D prinitng, 4D printing and cell printing in tissue engineering, drug-delivery,biosensor, programming. During his PhD period, He has done a number of projects about 3D/4D printing/bioprinting of advanced information-embeded and cell-laden scaffolds for tissue engineering regeneration.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
