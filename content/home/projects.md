@@ -22,6 +22,8 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+PhD Work
 item:
 - certificate_url:
   date_end: "2021-12-01"
@@ -42,7 +44,7 @@ item:
 - certificate_url: 
   date_end: "2016-08-31"
   date_start: "2015-11-01"
-  description: An oscillating cup viscometer based on hvidkovskiy algorithm was developed for measuring molten metals at liquid state.
+  description: An oscillating cup viscometer based on Shvidkovskiy algorithm was developed for measuring molten metals at liquid state.
   organization: 
   organization_url: 
   title: Development of an oscillating cup viscometer for molten metals
