@@ -21,6 +21,8 @@ interests:
 - 3D printing; 4D printing
 - Biomaterials in tissue engineering
 - Programming
+- Biosensor
+- Quantum Chemistry
 
 # Education to show in About widget
 education:
