@@ -18,7 +18,7 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-columns: '1'
+  columns: '1'
 ---
 **Publications:**
 
