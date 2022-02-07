@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: Publications
-subtitle: ""
+subtitle: "1. Jiahui Lai, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, Materials & Design, July 1, 2021"
 
 content:
   # Page type to display. E.g. post, talk, publication...

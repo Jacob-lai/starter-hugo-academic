@@ -1,7 +1,7 @@
 ---
-title: "1. Jiahui Lai, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, Materials & Design, July 1, 2021"
+#title: "1. Jiahui Lai, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, Materials & Design, July 1, 2021"
 
-title: "Jiahui Lai, Min Wang et al., 3D printing in biomedical engineering: process, materials, and applications, Applied Physics Reviews, June 16, 2021"
+#title: "Jiahui Lai, Min Wang et al., 3D printing in biomedical engineering: process, materials, and applications, Applied Physics Reviews, June 16, 2021"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
