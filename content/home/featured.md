@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-Title: Publications
+Title: ～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
 
 design:
   # Choose a view for the listings:
@@ -18,8 +18,9 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
-#columns: '2'
+columns: '2'
 ---
+**Publications:**
 
 1. **Jiahui Lai**, Min Wang et al., 4D printing of highly printable and shape morphing hydrogels composed of alginate and methylcellulose, _Materials & Design_, July 1, 2021
 2. **Jiahui Lai**, Min Wang et al., 3D printing in biomedical engineering: process, materials, and applications, _Applied Physics Reviews_, June 16, 2021
