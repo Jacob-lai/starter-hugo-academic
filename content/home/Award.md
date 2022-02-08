@@ -26,8 +26,8 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: ""
-  description: >- National Scholarship, Ministry of Education of P. R. China (2017);
-               >- First-class academic scholarship, Shandong University (2015, 2016)
+  2- description: National Scholarship, Ministry of Education of P. R. China (2017)
+  2- description: First-class academic scholarship, Shandong University (2015, 2016)
   organization:  
   organization_url: 
   title: Scholarships
