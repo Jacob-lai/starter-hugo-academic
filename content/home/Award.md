@@ -25,33 +25,36 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2011-09-01"
+  date_start: ""
   organization:  
   organization_url: 
   title: Scholarships
   url: ""
-  description: |2- 
-                  National Scholarship, Ministry of Education of P. R. China (2017)
-                  First-class academic scholarship, Shandong University (2015, 2016)
-                  Second campus scholarship, Shandong University (2013)
-                  Excellent student scholarship, Shandong University (2012, 2013, 2014) 
-- certificate_url: https://www.edx.org
+  description: >- 
+                  - National Scholarship, Ministry of Education of P. R. China (2017)
+                  - First-class academic scholarship, Shandong University (2015, 2016)
+                  - Second campus scholarship, Shandong University (2013)
+                  - Excellent student scholarship, Shandong University (2012, 2013, 2014) 
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
-
+  date_start: ""
+  organization: 
+  organization_url:
+  title: Contest awards
+  url: 
+  description: >-
+                  - Third-price of national biomedical electronics innovation design contest, Southeast University (2015)
+                  - Third-prize of Outstanding Practice Achievement Award for Professional Degree Graduates in Shandong Province (2018)
+- certificate_url: 
+  date_end: ""
+  date_start: ""
+  organization: 
+  organization_url:
+  title: Others
+  url: 
+  description: >-
+                  - Excellent Master's Thesis of Shandong Province (2019)
+                  - Outstanding Graduate Student of Shandong University (2016)
 design:
   columns: '1' 
 ---
