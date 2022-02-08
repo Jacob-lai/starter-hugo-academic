@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "2011-09-01"
   organization:  
   organization_url: 
   title: Scholarships
