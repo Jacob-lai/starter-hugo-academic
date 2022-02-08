@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "2015-09-01"
   organization:  
   organization_url: 
   title: Scholarships
@@ -37,7 +37,7 @@ item:
                   - Excellent student scholarship, Shandong University (2012, 2013, 2014) 
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "2015-09-01"
   organization: 
   organization_url:
   title: Contest awards
@@ -47,7 +47,7 @@ item:
                   - Third-prize of Outstanding Practice Achievement Award for Professional Degree Graduates in Shandong Province (2018)
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "2015-09-01"
   organization: 
   organization_url:
   title: Others
