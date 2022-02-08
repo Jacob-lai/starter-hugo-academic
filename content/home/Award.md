@@ -1,10 +1,14 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: Blank
 
 # This file represents a page section.
 headless: true
+
+# Date format
+# Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Order that this section appears on the page.
 weight: 100
@@ -12,49 +16,19 @@ weight: 100
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
 subtitle:
-
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url: 
-  date_end: ""
-  date_start: "2015-09-01"
-  organization:  
-  organization_url: 
-  title: Scholarships
-  url: ""
-  description: >- 
-                  - National Scholarship, Ministry of Education of P. R. China (2017)
-                  - First-class academic scholarship, Shandong University (2015, 2016)
-                  - Second campus scholarship, Shandong University (2013)
-                  - Excellent student scholarship, Shandong University (2012, 2013, 2014) 
-- certificate_url: 
-  date_end: ""
-  date_start: "2015-09-01"
-  organization: 
-  organization_url:
-  title: Contest awards
-  url: 
-  description: >-
-                  - Third-price of national biomedical electronics innovation design contest, Southeast University (2015)
-                  - Third-prize of Outstanding Practice Achievement Award for Professional Degree Graduates in Shandong Province (2018)
-- certificate_url: 
-  date_end: ""
-  date_start: "2015-09-01"
-  organization: 
-  organization_url:
-  title: Others
-  url: 
-  description: >-
-                  - Excellent Master's Thesis of Shandong Province (2019)
-                  - Outstanding Graduate Student of Shandong University (2016)
-design:
-  columns: '1' 
 ---
+
+
+**Scholarships:**
+                  * National Scholarship, Ministry of Education of P. R. China (2017)
+                  * First-class academic scholarship, Shandong University (2015, 2016)
+                  * Second campus scholarship, Shandong University (2013)
+                  * Excellent student scholarship, Shandong University (2012, 2013, 2014) 
+
+**Contest awards:**
+                  * Third-price of national biomedical electronics innovation design contest, Southeast University (2015)
+                  * Third-prize of Outstanding Practice Achievement Award for Professional Degree Graduates in Shandong Province (2018)
+
+**Others:**      
+                  * Excellent Master's Thesis of Shandong Province (2019)
+                  * Outstanding Graduate Student of Shandong University (2016)
