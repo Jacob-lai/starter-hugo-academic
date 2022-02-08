@@ -24,15 +24,15 @@ design:
 
 
 **Scholarships:**
-                  **National Scholarship**, Ministry of Education of P. R. China (2017)
-                  **First-class** academic scholarship, Shandong University (2015, 2016)
-                  **Second campus** scholarship, Shandong University (2013)
-                  **Excellent student** scholarship, Shandong University (2012, 2013, 2014) 
+                  - **National Scholarship**, Ministry of Education of P. R. China (2017)
+                  - **First-class** academic scholarship, Shandong University (2015, 2016)
+                  - **Second campus** scholarship, Shandong University (2013)
+                  - **Excellent student** scholarship, Shandong University (2012, 2013, 2014) 
 
 **Contest awards:**
-                  **Third-price** of national biomedical electronics innovation design contest, Southeast University (2015)
-                  **Third-prize** of Outstanding Practice Achievement Award for Professional Degree Graduates in Shandong Province (2018)
+                  - **Third-price** of national biomedical electronics innovation design contest, Southeast University (2015)
+                  - **Third-prize** of Outstanding Practice Achievement Award for Professional Degree Graduates in Shandong Province (2018)
 
 **Others:**      
-                  **Excellent Master's Thesis** of Shandong Province (2019)
-                  **Outstanding Graduate Student** of Shandong University (2016)
+                  - **Excellent Master's Thesis** of Shandong Province (2019)
+                  - **Outstanding Graduate Student** of Shandong University (2016)
