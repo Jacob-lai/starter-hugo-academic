@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Blank
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -16,6 +16,10 @@ weight: 100
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
 subtitle:
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
 
 
