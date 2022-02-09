@@ -49,7 +49,7 @@ feature:
   icon_pack: custom
   name: English skills
 - description: 80%
-  icon: fa-microsoft
+  icon: microsoft
   icon_pack: fab
   name: Office
 
