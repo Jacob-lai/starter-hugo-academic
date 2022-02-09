@@ -35,7 +35,7 @@ feature:
 - description: 50%
   icon: Labview
   icon_pack: custom
-  name: LABVIEW
+  name: LabView
 - description: 70%
   icon: PS
   icon_pack: custom
@@ -70,12 +70,12 @@ feature:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 5
 ---
