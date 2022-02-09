@@ -32,18 +32,14 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 70%
-  icon: PS
-  icon_pack: custom
-  name: Photoshop
-- description: 100%
-  icon: chalkboard-teacher
-  icon_pack: fas
-  name: Teaching and Learning in Higher Education
 - description: 50%
   icon: Labview
   icon_pack: custom
   name: LABVIEW
+- description: 70%
+  icon: PS
+  icon_pack: custom
+  name: Photoshop
 - description: 80%
   icon: English
   icon_pack: custom
@@ -52,6 +48,10 @@ feature:
   icon: microsoft
   icon_pack: fab
   name: Office
+- description: 100%
+  icon: chalkboard-teacher
+  icon_pack: fas
+  name: Teaching and Learning in Higher Education
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -70,12 +70,12 @@ feature:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 ---
