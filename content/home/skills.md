@@ -40,6 +40,18 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching and Learning in Higher Education
+- description: 50%
+  icon: Labview
+  icon_pack: custom
+  name: LABVIEW
+- description: 80%
+  icon: English
+  icon_pack: custom
+  name: English skills
+- description: 80%
+  icon: fa-microsoft
+  icon_pack: fab
+  name: Office
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
