@@ -27,7 +27,7 @@ item:
 - certificate_url:
   date_end: "2021-12-01"
   date_start: "2021-07-25"
-  description: 4D cell printing was used to fabricate dual-information delivery, self-folding and cell-laden scaffolds for tubular tissue regeneration.
+  description: 4D cell printing was used to fabricate dual-information delivery, self-folding, and cell-laden scaffolds for tubular tissue regeneration. The scaffolds could automatically fold into a tube upon heating to the human body temperature. The released information from the scaffolds could induce the differentiation of stem cells into smooth muscle cells.
   organization:
   organization_url:
   title: 4D printing of information-embeded and shape morphing scaffolds
@@ -43,7 +43,7 @@ item:
 - certificate_url:
   date_end: "2020-11-01"
   date_start: "2020-09-01"
-  description: A versatile strategy was proposed to develop a shape morphing hydrogel composed of alginate and methylcellulose with swelling anisotropy for 4D prinitng.
+  description: A versatile strategy was proposed to develop a shape morphing hydrogel composed of alginate and methylcellulose with swelling anisotropy for 4D printing. A series of 2D patterns was 4D printed and could be deformed into different simple and complex 3D structures (e.g., tube, helix, double helix, and flowers) by responding to Calcium solution.
   organization:
   organization_url:
   title: Development of a printable and shape morphing hydrogel for 4D prinitng
@@ -51,7 +51,7 @@ item:
 - certificate_url:
   date_end: "2020-07-01"
   date_start: "2019-09-01"
-  description: Two 4D printing strategies were developed to process gelatin methacryloyl (GelMA) into dynamic hydrogel structures that could automatically fold into tubes, ranging from diameters from several hundred um to several mm, by responding to the water.
+  description: Two 4D printing strategies were developed to process gelatin methacryloyl (GelMA) into dynamic hydrogel structures that could automatically fold into tubes, with diameters ranging from several hundreds um to several mm, by responding to the water.
   organization:
   organization_url:
   title: 4D printing of self-folding hydrogel tubes for potential tissue engineering
