@@ -18,7 +18,7 @@ bio: My research interests include 3D/4D printing/bioprinting, biomaterials in t
 
 # Interests to show in About widget
 interests:
-- 3D printing; 4D printing
+- 3D printing; 4D printing; Bioprinting
 - Biomaterials in tissue engineering
 - Programming
 - Biosensor
@@ -73,5 +73,5 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Jiahui Lai currently is a Ph.D. candidate in Mechanical Engineering at the University of Hong Kong (HKU). He obtained his bachelor's and master's degrees in Biomedical Engineering, Shandong University. His research interests include 3D printing, 4D printing, and cell printing in tissue engineering, drug-delivery, biosensor, programming. During his Ph.D. period, he has done several projects about 3D/4D printing/bioprinting of advanced information-embedded and cell-laden scaffolds for tissue engineering regeneration.
+Jiahui Lai currently is a Ph.D. candidate in Mechanical Engineering at the University of Hong Kong (HKU). He obtained his bachelor and master degrees in Biomedical Engineering, Shandong University. His research interests include 3D printing, 4D printing, and cell printing in tissue engineering, drug-delivery, biosensor, programming. During his Ph.D. period, he has done several projects about 3D/4D printing/bioprinting of advanced information-embedded and cell-laden scaffolds for tissue engineering regeneration.
 
