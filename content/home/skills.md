@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: C
-  icon_pack: custom
+  icon: square-c
+  icon_pack: fas
   name: C language
 - description: 50%
   icon: C++
@@ -37,8 +37,8 @@ feature:
   icon_pack: custom
   name: LabView
 - description: 70%
-  icon: PS
-  icon_pack: custom
+  icon: images
+  icon_pack: fab
   name: Photoshop
 - description: 80%
   icon: English
