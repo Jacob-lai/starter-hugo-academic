@@ -27,10 +27,18 @@ item:
 - certificate_url:
   date_end: "2021-12-01"
   date_start: "2021-07-25"
-  description: 4D printing was used to fabricate dual-information delivery, self-folding and cell-laden scaffolds for tubular tissue regeneration.
+  description: 4D cell printing was used to fabricate dual-information delivery, self-folding and cell-laden scaffolds for tubular tissue regeneration.
   organization:
   organization_url:
   title: 4D printing of information-embeded and shape morphing scaffolds
+  url:
+- certificate_url:
+  date_end: "2021-12-01"
+  date_start: "2020-09-01"
+  description: A dual-drug delivery and cell-laden scaffold were developed via hybrid 3D bioprinting of a synthetic polymer loading Doxorubicin hydrochloride and a natural hydrogel loading 5-fluorouracil and living cells. Such hybrid scaffolds showed heterogeneous structures, shape-retaining ability, controlled release of anti-cancer drugs for cancer ablation and suppression, and high cell viability and good cell growth encapsulated in the scaffolds.
+  organization:
+  organization_url:
+  title: Hybrid 3D bioprinting of synthetic and natural drug-loading and cell-laden polymers for regeneration of cancer resection-induced tissue defects
   url:
 - certificate_url:
   date_end: "2020-11-01"
