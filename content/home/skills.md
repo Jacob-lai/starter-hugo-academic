@@ -41,8 +41,8 @@ feature:
   icon_pack: fas
   name: Photoshop
 - description: 80%
-  icon: English
-  icon_pack: custom
+  icon: language
+  icon_pack: fas
   name: English skills
 - description: 80%
   icon: microsoft
