@@ -21,16 +21,16 @@ feature:
   icon_pack: fas
   name: C/C++ language
 - description: 70%
-  icon: MATLAB
-  icon_pack: custom
+  icon: m
+  icon_pack: fas
   name: Matlab
 - description: 50%
   icon: python
   icon_pack: fab
   name: Python
 - description: 50%
-  icon: Labview
-  icon_pack: custom
+  icon: microchip
+  icon_pack: fas
   name: LabView
 - description: 50%
   icon: atom
@@ -57,7 +57,7 @@ feature:
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
