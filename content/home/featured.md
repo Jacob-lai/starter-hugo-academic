@@ -27,7 +27,7 @@ design:
 4. Yudong Zhao, **Jiahui Lai (co-first author)** et al., 4D printing of self-folding hydrogel tubes for potential tissue engineering applications, _Nano Life_, December 14, 2021
 5. **Jiahui Lai** and Min Wang, Micro-valve jetting of biomaterials, _ASM handbook_, accepted, 2022
 6. **Jiahui Lai**, Min Wang et al., 3D printed porous tissue engineering scaffolds with the self-folding ability and controlled release of growth factor, _MRS Communications_, December 10, 2020
-7. Jian Liu **(Supervisor)**, **Jiahui Lai**, et al., Theoretical study on the catalytic oxidation of p-iodophenol by horseradish peroxidase in a chemiluminescent system, _ChemistrySelect_, November 15, 2018
+7. Jian Liu **(Master supervisor)**, **Jiahui Lai**, et al., Theoretical study on the catalytic oxidation of p-iodophenol by horseradish peroxidase in a chemiluminescent system, _ChemistrySelect_, November 15, 2018
 8. Ping Zhu, **Jiahui Lai (co-first author)** et al., An oscillating cup viscometer based on Shvidkovskiy algorithm for molten metals, _Measurement_, July 1, 2018
 9. Zhao Zhang, **Jiahui Lai**, et al., Peroxidase-catalyzed chemiluminescence system and its application in immunoassay, _Talanta_, April 1, 2018
 10. Ping Zhu, **Jiahui Lai** et al., An attenuated time measurement based on pulse interval for oscillating cup viscometer, _Chinese Automation Congress_, 2017
