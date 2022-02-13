@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: C/C++ language
 - description: 70%
-  icon: m
+  icon: M
   icon_pack: fas
   name: Matlab
 - description: 50%
