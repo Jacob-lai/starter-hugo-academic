@@ -16,14 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 70%
+- description: 60%
   icon: copyright
   icon_pack: fas
-  name: C language
-- description: 50%
-  icon: C++
-  icon_pack: custom
-  name: C++ language
+  name: C/C++ language
 - description: 70%
   icon: MATLAB
   icon_pack: custom
@@ -36,6 +32,10 @@ feature:
   icon: Labview
   icon_pack: custom
   name: LabView
+- description: 50%
+  icon: atom
+  icon_pack: fas
+  name: Quantum chemistry
 - description: 70%
   icon: images
   icon_pack: fas
